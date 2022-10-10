@@ -14,7 +14,7 @@ function App() {
               <fieldset>
                 <legend>Connectez Vous!!</legend>
 
-                <label for="mail">Adresse Mail</label>
+                <label for="mail">Adresse Mail ou Pseudo</label>
                 <input type="email" id="mail" name="mail" required /><br />
 
                 <label for="passwd">Mot de Passe</label>
@@ -97,7 +97,7 @@ function App() {
                     <input
                       type="text"
                       class="form-control"
-                      placeholder="Username"
+                      placeholder="Pseudo"
                       aria-label="Username"
                       aria-describedby="basic-addon1"
                     />
